@@ -5,8 +5,8 @@ This script was written by Dr Daniel Natt
 Version 1.1 02/10/2019
 
 --------------------------------------------------------------------------------
-          Initial notes
---------------------------------------------------------------------------------
+#          Initial notes
+
  These script will automatically generate some of the key results reported
  in Serpeloni et al 2019 (Frontiers in Genetics)
 
