@@ -7,8 +7,7 @@ Version 1.1 02/10/2019
 --------------------------------------------------------------------------------
 #          Initial notes
 
- These script will automatically generate some of the key results reported
- in Serpeloni et al 2019 (Frontiers in Genetics)
+ These script will automatically generate some of the key results reported in Serpeloni et al 2019 (Frontiers in Genetics)
 
  All file inputs needed to perform the methylome switching analysis in the 
  Brazilian (target population for the current paper) and the publically 
@@ -21,8 +20,7 @@ Version 1.1 02/10/2019
  a laptop having a i5-4210U CPU 2.4GHz with 8GB of RAM.
 
  Info about a functional session environment is listed in the end of this script. 
- The script are especially depending on:
- R version 3.5.1, GEOquery 2.48.0, minfi 1.26.2, reshape 0.8.7, limma 3.36.3,
+ The script are especially depending on: R version 3.5.1, GEOquery 2.48.0, minfi 1.26.2, reshape 0.8.7, limma 3.36.3,
  ggplot2 3.0.0, IlluminaHumanMethylation450kanno.ilmn12.hg19 0.6.0      
  IlluminaHumanMethylation450kmanifest 0.4.0
 
